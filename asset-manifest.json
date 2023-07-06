@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/balance-checker/static/css/main.c74898f1.css",
-    "main.js": "/balance-checker/static/js/main.d69359ee.js",
+    "main.js": "/balance-checker/static/js/main.b9be3ccd.js",
     "index.html": "/balance-checker/index.html"
   },
   "entrypoints": [
     "static/css/main.c74898f1.css",
-    "static/js/main.d69359ee.js"
+    "static/js/main.b9be3ccd.js"
   ]
 }
